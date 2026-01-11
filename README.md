@@ -9,8 +9,6 @@
 
 </div>
 
----
-
 ### Features
 
 - Batch assign folder icons by dragging folders onto icon cards  
