@@ -55,3 +55,4 @@ composeApp/build/compose/binaries/main/app/
 ### Credits
 
 * [https://github.com/icon11-community](https://github.com/icon11-community)
+* [https://blog.cls.ink/2024/07/27/Set-Folder-Icon-and-Refresh-Cache-Immediately](https://blog.cls.ink/2024/07/27/Set-Folder-Icon-and-Refresh-Cache-Immediately)
